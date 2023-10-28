@@ -1,4 +1,6 @@
 # Slippi Server League
+The goal: this repo will serve as a BYOK template for hosting an automated slippi stream for tournaments.
+
 Hypothesis: there's an easy way to automate a Windows Server AWS Lightsail instance to broadcast bracket matches for online tournaments. This would be a big stepping stone for online melee communities.
 
 # Work breakdown
